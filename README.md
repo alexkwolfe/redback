@@ -116,10 +116,10 @@ For now, see the [annotated source](http://redbackjs.com/api.html) for more info
 ## Testing
 
 The expresso module is required in order to run the tests.
-````
+```
 npm install expresso -g
 expresso test/*
-````
+```
 
 ## Credits
 
