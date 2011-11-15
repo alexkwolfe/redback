@@ -1,4 +1,4 @@
-var redback = require('redback'),
+var redback = require('../../redback'),
     assert = require('assert'),
     Structure = redback.Structure,
     Hash = redback.Hash,

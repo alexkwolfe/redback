@@ -113,6 +113,14 @@ channel.publish(msg);
 
 For now, see the [annotated source](http://redbackjs.com/api.html) for more information.
 
+## Testing
+
+The expresso module is required in order to run the tests.
+````
+npm install expresso -g
+expresso test/*
+````
+
 ## Credits
 
 - Matt Ranney for his awesome [node_redis](https://github.com/mranney/node_redis) library.

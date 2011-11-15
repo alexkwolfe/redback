@@ -1,4 +1,4 @@
-var redback = require('redback').createClient(),
+var redback = require('../../redback').createClient(),
     client2 = require('redis').createClient(),
     assert = require('assert');
 
